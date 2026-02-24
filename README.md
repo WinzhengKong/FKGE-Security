@@ -1,6 +1,6 @@
 # Unveiling and Mitigating Untargeted Poisoning Attacks on Federated Knowledge Graph Embedding
 
-Under review.
+Accepted by WWW 2026.
 
 ## Quick Start
 
